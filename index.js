@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["✨Owner @kareemtv✨","✨Protect✨"];
+const statusMessages = ["✨Owner @kareemtv✨","✨Protect✨"✨Safe"✨];
 
 
 let currentIndex = 0;
