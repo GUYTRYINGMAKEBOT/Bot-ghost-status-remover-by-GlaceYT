@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["✨Made By @kareemtv✨","✨Protect✨"];
 
 
 let currentIndex = 0;
